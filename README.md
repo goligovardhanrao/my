@@ -6,3 +6,7 @@ This repository is built step by step in the tutorial.
 
 
 new change commit
+
+
+
+direct fetch and merge at single time
